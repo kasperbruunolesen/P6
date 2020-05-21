@@ -9,4 +9,4 @@ Explanation of files
 
 <b>Pass-band simulations:</b> Contains a BPSK pass-band simulator, that modulates the I and Q values on a cosine and sine converting them to pass-band, and downconverts to base-band recovering the transmitted signals.
 
-<b>Adaptive modulation:</b> Contains the adaptive modulation simulator, able of switching between BPSK, QPSK, 16-QAM and 64-QAM depending on the SNR. Includes a model of two satellites in a cross-plane constellation with completely user definable parameters.
+<b>Adaptive Modulation:</b> Contains the adaptive modulation simulator, able of switching between BPSK, QPSK, 16-QAM and 64-QAM depending on the SNR. Includes a model of two satellites in a cross-plane constellation with completely user definable parameters.
